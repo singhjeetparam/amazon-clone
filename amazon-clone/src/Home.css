@@ -1,0 +1,12 @@
+.carousel-control-position-fixed{
+    top: -350px;
+}
+
+.home{
+    background-image: linear-gradient(255, 0,0,0);
+}
+
+.image-with-transparent-mask{
+    -webkit-mask-image: linear-gradient(0deg,rgba(255, 255, 255, 0) 0%,#eaeded 90%);
+}
+

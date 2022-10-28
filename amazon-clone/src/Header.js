@@ -40,6 +40,7 @@ function Header(){
                 </div>
                 <div className='navbar-cart'>
                     <img src={cartlogo} />
+                    <span className='basket-count'>0</span>
                 </div>
             </div>
         </div>

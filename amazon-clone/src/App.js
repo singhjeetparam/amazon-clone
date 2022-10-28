@@ -1,6 +1,7 @@
 
 import './App.css';
 import Header from './Header.js';
+import Home from './Home.js';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
     <div className="app">
      {/* <h1>Amazon Clone</h1> */}
      { <Header />}
-     {/* {HOME} */}
+     {<Home />}
      
     </div>
   );
